@@ -2,4 +2,4 @@
 
 ## Via Link:
 
-https://ozguripekci.github.io/Autria_Wellnes-Bootstrap_portfolio/
+https://ozguripekci.github.io/Austria_Wellnes-Bootstrap_portfolio/
